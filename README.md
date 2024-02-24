@@ -23,22 +23,22 @@ The website is currently deployed and accessible at: [EduCity Deployed Link](htt
 ## Pages
 
 - **Home**: Landing page with general information about the university.
- ![Home Page](assets/home_page.png)
+ ![Home Page](src/assets/home_page.png)
 
 - **Program**: Displays available graduation degrees with detailed information.
-  ![Program Page](assets/program.jpg)
+  ![Program Page](src/assets/Program_page.png)
 
 - **About Us**: Provides information about the university's history, mission, and values.
-  ![About Us Page](assets/about_us.jpg)
+  ![About Us Page](src/assets/about_page.png)
 
 - **Campus**: Showcases images and details of the university campus.
-  ![Campus Page](assets/campus.jpg)
+  ![Campus Page](src/assets/campus_page.png)
 
 - **Testimonials**: Features testimonials from students or alumni.
-  ![Testimonials Page](assets/testimonials.jpg)
+  ![Testimonials Page](src/assets/testimonial_page.png)
 
 - **Contact**: Allows users to get in touch with the university.
-  ![Contact Page](assets/contact.jpg)
+  ![Contact Page](src/assets/contact_page.png)
 
 ## Images
 
