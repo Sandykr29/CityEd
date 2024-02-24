@@ -28,7 +28,7 @@ The website is currently deployed and accessible at: [EduCity Deployed Link](htt
 
 To run the EduCity project locally, follow these steps:
 
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: `git clone https://github.com/Sandykr29/CityEd.git`
 2. Navigate to the project directory: `cd educity`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
