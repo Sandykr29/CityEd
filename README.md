@@ -4,7 +4,7 @@ EduCity is a React-based website project created by Sandeep Kumar. It showcases 
 
 ## Deployment
 
-The website is currently deployed and accessible at: [EduCity Deployed Link](https://edusityclone.netlify.app/)
+The website is currently deployed and accessible at: [EduCity Deployed Link](https://cloneedusity.netlify.app/)
 
 ## Features
 
